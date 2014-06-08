@@ -1,6 +1,6 @@
-# ncc
+# newt
 
-NCC is a new compiler suite, the compilers will be similar to the Plan 9
+Newt is a new compiler suite, the compilers will be similar to the Plan 9
 compilers, with separate compilers for different architectures. The compilers
 implement ANSI C with restrictions and improvements. The aim is to bring a
 new way to write C programs that can be written and compiled easily across
@@ -8,7 +8,7 @@ architectures and operating systems.
 
 ## Standard Library
 
-The standard library is the most outstanding feature in ncc as it is completely
+The standard library is the most outstanding feature in newt as it is completely
 different to the ANSI C and POSIX libraries commonly used. The standard library
 takes heavy inspiration from the [Go stdlib](http://golang.org/pkg/), the most
 important being the os and syscall packages, the implement the routines that
