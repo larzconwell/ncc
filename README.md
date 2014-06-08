@@ -41,3 +41,12 @@ The preprocessor is ran on assembly code before the build begins, so you can
 use the same macros, etc. as you would in Newt code.
 
 A spec for the assembly syntax is provides in the incldued "docs/" directory.
+
+## File Layout
+
+| Path                | Description                                               |
+| ------------------- | --------------------------------------------------------- |
+| `docs/`             | Specifications and general documentation                  |
+
+## Licensing
+The Newt libraries and included tools are MIT licensed, see [LICENSE](https://raw.githubusercontent.com/larzconwell/newt/master/LICENSE) for details.
